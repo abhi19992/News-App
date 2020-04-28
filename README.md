@@ -1,6 +1,6 @@
 # flutternews
 
-A new Flutter application.
+A Flutter application which uses news api to to provide news of all the categories.Please make sure you go through it.
 
 ## Getting Started
 
